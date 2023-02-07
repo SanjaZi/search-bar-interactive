@@ -10,8 +10,9 @@ overflow: hidden;
 }
 
 .container {
-    width: 3%;
-   padding: 0.5%;
+    width: 35px;
+    height: 20px;
+   padding: 8px;
     background-color: white;
    text-align: center;
     transition: width 0.5s;
@@ -19,7 +20,7 @@ overflow: hidden;
 }
 
 .containerClicked {
-    width: 20%;
+    width: 295px;
 }
 
 .lupica {
