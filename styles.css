@@ -65,4 +65,8 @@ input {
     body {
         overflow: initial;
     }
+
+    a {
+        background-color: transparent;
+      }
   }
